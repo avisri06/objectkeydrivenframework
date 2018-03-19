@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Test" duration-ms="69424" started-at="2018-03-18T23:06:04Z" finished-at="2018-03-18T23:07:14Z">
+    <groups>
+    </groups>
+    <test name="LoginAndReset" duration-ms="69424" started-at="2018-03-18T23:06:04Z" finished-at="2018-03-18T23:07:14Z">
+      <class name="ExecuteTest">
+        <test-method status="PASS" signature="testLogin()" name="testLogin" duration-ms="69393" started-at="2018-03-18T23:06:04Z" finished-at="2018-03-18T23:07:14Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
